@@ -1,1 +1,3 @@
-Devansh Pandey [https://github.com/devXcypher]
+
+ [Aditya](https://github.com/aditya-iitr)
+
