@@ -1,2 +1,2 @@
- Aditya Ranjan [https://github.com/aditya-iitr]
+Aditya Ranjan [https://github.com/aditya-iitr]
 
